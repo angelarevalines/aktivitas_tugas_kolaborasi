@@ -1,2 +1,2 @@
 Tugas Kolaborasi Git
-Baris 2: despkripsi proyek
+Baris 2: perubahan konflik 2
